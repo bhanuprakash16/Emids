@@ -7,3 +7,5 @@ Other than providing a general overview of the business model, these canvases en
 the model as the company evolves, such as changes in the market, new streams or expansions.
 The business model canvas provides the central, common source of knowledge through which each department can add their unique input from their respective
 domains.
+It is a template that defines the business - specifically, how each section interacts with the others. For example, understanding the value proposition, the\
+target customer and the channels through which they are engaged all need to be analyzed together, not just in individual vacuums.
