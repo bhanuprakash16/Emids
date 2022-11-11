@@ -21,6 +21,8 @@ It describes all costs incurred to operate a business model. The questions to be
 It represents the cash a company generates from each Customer Segment (costs must be subtracted from revenues to create earnings). Main questions to answer include: "For what value are our customers really willing to pay?"
 
 A business model describes the rationale of how an organization creates, delivers and captures value. A Business Model Canvas(BMC) is a tool to help map existing business models, improve them and invent new ones. It will lead to insights about the customers the entrepreneur plans on serving, what value propositions are offered through what channels and how the company makes money. It gathers all necessary information about the product and business and conveniently puts it on one page.
+
+## Description
 The BMC leads to insights about the customers a company serves, what value propositions are offered through what channels and how your company makes money. The key benefits that a BMC brings to its users are:
 . It is focused. Enterprises need a definitionof how to get their products to their customers and the business model canvas helps you define them. It also gives you the comptetive edge to launch a profitable business not only through product innovation but also through designing your business correctly.
 . BMC is clear and concise. It helps you document your startup journey so you can easily modify it as you go along. The business model is a blueprint that defines your business initially and you later expand on it. It is useful for easy communication with your team, investors, partners as well as employees to come on board with your vision.
