@@ -1,25 +1,29 @@
 # Business Model Canvas
-A business model canvas is a visual representation of a business model, highlighting all key strategic factors. In other words, it is a general, holistic and
-complete overview of the company's workings, customers, revenue streams and more. The actual business model canvas definition was first proposed by Alexander 
-Osterwalder, a Swiss entrepreneur, and consultant, but has gone to be used around the world.
-
-# What's the Purpose of a Business Model Canvas?
-Other than providing a general overview of the business model, these canvases enable companies to visualize and analyze their strategy. This includes updating 
-the model as the company evolves, such as changes in the market, new streams or expansions.
-The business model canvas provides the central, common source of knowledge through which each department can add their unique input from their respective
-domains.
-It is a template that defines the business - specifically, how each section interacts with the others. For example, understanding the value proposition, the target customer and the channels through which they are engaged all need to be analyzed together, not just in individual vacuums.
-Alternatively, the business model canvas can be used by organizations to plan, assess or execute new models altogether. In this way, the canvas highlights the key essentials and ensures that no vital factors are forgotten. If the canvas is incomplete, then the respective strategy is also incomplete.
-
-# Elements of a Business Model Canvas
+The Business Model Canvas (BMC) tool which helps to map existing business models, improve them and invent new ones. It has 9 building blocks, each of which is
+described in detail and using real life examples:
 ## Customer Segments
-Whether its B2B or B2C, all businesses have customers. These are the people or organizations that buy your products, use your service or are otherwise essentail for creating a profit.
-Customers can be defined through various but it's important to focus on the core customers first, then assess less critical or potential future clients. The canvas should assess, among other factors:
-. Current and future needs: What are customers looking for, and what might they be looking for in the immmediate future?
-. General demographic: age range, location, interests, etc.,
-. Likes, dislikes and pain points: What do your customers enjoy and what puts them off? Knowing this will help understand how best to approach them.
-. Relations with other segments: This is important if your business relies on multiple groups interacting. Airbnb, for example, has both property owners and guests - the business strategy only works if both are satisfied.
-Additionally, you can list additional segments that may utilize the product or service in the future. This will highlight future directions the strategy can go in, once success has bee gained with the core, primary audience(s).
-## Value Proposition
-A company's value proposition is the sum of its various products and services, specifically in reagards to how it uniquely stands out amongst the competition. In layman's terms: what is the unique factor that makes this business better than another?
-The creator of the business model canvas, Osterwalder has also stated that organizations need to offer something unique and, what's more, this needs to be immediately discernbile from the competition.
+The BMC itself has two stages - the front stage and the back stage. The front stage is the part of the business that is directly facing the customer. The back stage is everthing that the company needs to have or do in order to provide the right half.
+## Value propositions
+The main purpose of value proposition is to solve a customer problem or satify a need. It is a bundle of benefits that a company offers customers.
+## Customer relationships
+It describes the types of relationships a company establishes with specific customer segments.
+## Channels
+It describes how the company communicates with and reaches its Cusomter Segments to deliver a value proposition. The main question to answer when filling out this building block is: "Through which channels do our Customer Segments want to be reached?"
+## Key resources
+It describes the most important assets required to make a business model work. The main questions to answer when writing this building block are: "What key resources do our value propositions require?"
+## Key activities
+It describes the most important things a company must do to make its business model work. In this building block, the main questions to answer are: "What Key activities do our value propositions require?"
+## Key partnerships
+It describes the network of suppliers and partners that make the business model work. The main questions to be answered are: "Who are our key partners?"
+## Cost Structure
+It describes all costs incurred to operate a business model. The questions to be answered in this building block include : "What are the most important costs inherent in our business model?"
+## Revenue Streams
+It represents the cash a company generates from each Customer Segment (costs must be subtracted from revenues to create earnings). Main questions to answer include: "For what value are our customers really willing to pay?"
+
+A business model describes the rationale of how an organization creates, delivers and captures value. A Business Model Canvas(BMC) is a tool to help map existing business models, improve them and invent new ones. It will lead to insights about the customers the entrepreneur plans on serving, what value propositions are offered through what channels and how the company makes money. It gathers all necessary information about the product and business and conveniently puts it on one page.
+The BMC leads to insights about the customers a company serves, what value propositions are offered through what channels and how your company makes money. The key benefits that a BMC brings to its users are:
+. It is focused. Enterprises need a definitionof how to get their products to their customers and the business model canvas helps you define them. It also gives you the comptetive edge to launch a profitable business not only through product innovation but also through designing your business correctly.
+. BMC is clear and concise. It helps you document your startup journey so you can easily modify it as you go along. The business model is a blueprint that defines your business initially and you later expand on it. It is useful for easy communication with your team, investors, partners as well as employees to come on board with your vision.
+. It targets customers needs. The biggest reason for startup failure is "Product/Market fit" and not the product itself. Too often we forget this and direct our energy on building an awesome product. When you envision how you will sell your product, what type of resources you need the different customer segments as well you can serve, the business becomes lucid. Documenting it gives you the clarity when you talk to your customers.
+. It reduces the risk of failure. The business model canvas helps you with the execution steps requirement to take your idea to market. Connecting the dots between your value proposition + customer segments + revenue streams, is a good input to your marketing strategy, positioning statement as well as your sales strategy. You have the edge over your competitors who are immersed in the lengthy pages of the business plan.
+. It is a scientific framework that works. Business model canvas is a tried and tested methodology not only for startups but also for innovating in large enterprises. Nespresso, a fully owned daughter company of NestL. is a great example of a powerful business model.It changed the face of the coffee industry by turning a transactional business (selling coffee through retail) into one with recurring revenues (selling proprietary pods through direct channels).
